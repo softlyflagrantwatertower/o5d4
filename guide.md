@@ -1,6 +1,6 @@
 # Step by Step
-![](ox-dc-1)
-![](ox-dc-2)
-![](ox-dc-3)
-![](ox-dc-4)
+![](img/ox-dc-1)
+![](img/ox-dc-2)
+![](img/ox-dc-3)
+![](img/ox-dc-4)
 ### done.
