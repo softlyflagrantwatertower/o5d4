@@ -19,6 +19,8 @@
   - long leg to square pad (hole).
 - 1x SPST NO footswitch w/ harness
   - connect harness to [SW3] JST connector.
+- 2x Audio Jack 1/4"
+  - connector to wires from [P9, P2, P5].
 
 # Step by Step
 ### it's best to start with an empty enclosure:
