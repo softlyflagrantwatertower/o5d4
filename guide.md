@@ -7,7 +7,7 @@
   - use small rectangular pads on the JST-style footprints.
 
 ## Controls, etc:
-- Black DC jack w/ harness
+- black DC jack w/ harness
   - bend pins outward before adding harness, otherwise 100kB pot won’t fit.
   - connect harness to [P1] JST connector.
 - 1x 25kB pot [RV2]
@@ -19,8 +19,9 @@
   - long leg to square pad (hole).
 - 1x SPST NO footswitch w/ harness
   - connect harness to [SW3] JST connector.
-- 2x Audio Jack 1/4"
+- 2x black audio jack 1/4"
   - connector to wires from [P9, P2, P5].
+  - ground wire [P9] is soldered to angled-corner pin on jack.
 
 # Step by Step
 ### it's best to start with an empty enclosure:
