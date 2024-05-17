@@ -58,6 +58,10 @@ Once the pots are prepared, you can fit them in place on the PCB. The three 100k
 This type of switch has a "notch" along one side of the threaded metal shaft. The switches should be fitted so the notches on both are facing towards the top edge of the PCB. This has no functional significance, it simply adds a visual consistency to the pedal.
 There's one extra consideration with the switches on the Oxford Drive in particular. Since the SPDT switch is so close to the enclosure's edge, sometimes the hex nut on the switch will push against the edge and prevent the switch from fully pushing into place. To prevent this, make sure that the hex nut is turned to have a totally flat edge along the side of the switch that lines up to the edge of the PCB.
 ### 6. Last, fit the yellow LED in place on the PCB.
+
+> [!IMPORTANT]
+> Be careful of LED orientation!
+
 LEDs have a polarity and must be placed in the correct orientation. The LED's cathode should be placed in the square pad on the PCB. Check out this [led polarity diagram](img/led-polarity-diagram-20240328-2.png) for more info.
 ### 7A. If the pots, switches, and LED are all in place, then the PCB can now be fitted into the enclosure.
 This step can be surprisingly difficult at first, as all of the slightly loose controls must be nudged through their respective holes. I recommend pushing the upper row of controls partway through first, which usually allows the bottom row to slot into place more easily.
