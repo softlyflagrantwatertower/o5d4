@@ -44,7 +44,7 @@ Next, use a pair of pliers to bend the solder lugs outwards. the lug is the bit 
 3. It works best to grab the solder lug close to the jack. bend it at a sharp angle so it remains straight after the bend.
 4. Last, solder the connector wire to the jack.
 On the current version, solder the black wire to the longer solder lug.
-![](ox-dc-20240517.png)
+![](img/ox-dc-20240517.png)
 ### 2. Next, fit the SPST footswitch.
 Make sure the footswitch has a JST harness soldered in place before adding it to the pedal.
 Remove the first nut and washer, leaving the second nut in place (screwed in fully). Insert the footswitch, then screw it in place with the nut and washer that you removed.
