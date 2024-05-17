@@ -37,17 +37,14 @@ The short wire should be soldered to [P9]. The long wires should be soldered to 
 With all of that finished, the PCB is now ready for the next part of the assembly process.
 # Step by Step: Enclosure
 ### 1. First, add the black DC jack.
+1. It's best to start with an empty enclosure.
 The pins on the DC jack must be bent in order to make space for the "contour" pot. Here's how to do it without damaging the jack or the rest of the pedal:
-It's best to start with an empty enclosure:
-![](img/ox-dc-1.jpg)
-First, insert the DC jack. then add the nut and tighten it so the jack remains in place.
-![](img/ox-dc-2.jpg)
+2. Insert the DC jack. then add the nut and tighten it so the jack remains in place.
 Next, use a pair of pliers to bend the solder lugs outwards. the lug is the bit of metal with a hole in it, designed for a wire to fit through.
-It works best to grab the solder lug close to the jack. bend it at a sharp angle so it remains straight after the bend.
-![](img/ox-dc-3.jpg)
-Last, solder the connector wire to the jack.
+3. It works best to grab the solder lug close to the jack. bend it at a sharp angle so it remains straight after the bend.
+4. Last, solder the connector wire to the jack.
 On the current version, solder the black wire to the longer solder lug.
-![](img/ox-dc-4.jpg)
+![](ox-dc-20240517)
 ### 2. Next, fit the SPST footswitch.
 Make sure the footswitch has a JST harness soldered in place before adding it to the pedal.
 Remove the first nut and washer, leaving the second nut in place (screwed in fully). Insert the footswitch, then screw it in place with the nut and washer that you removed.
